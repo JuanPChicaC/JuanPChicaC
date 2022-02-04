@@ -1,7 +1,7 @@
 
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
-  <h4 align="center" id="heading">Data Scientist and pasionate about data development</h4>
+  <h4 align="center" id="heading">Data Scientist and Pasionate About Data-Related Development</h4>
 </div>
 
 
@@ -67,7 +67,7 @@ about_me.description = {
 }
 ```
 
-
+<h2 align = "center" id = "heading" font-weight =  bold> My Projects 💬 </h2>
 
 
 <!--
