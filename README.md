@@ -13,7 +13,7 @@ about_me.description = {
           ],
           
     "askMeAbout" : [
-          "Data Science", "Machine Learning", "Optimization", "Economics"
+          "Data Science", "Machine Learning", "Optimization", "Economics", "Games Theory"
           ],
           
     "knowledge" : {
@@ -62,7 +62,7 @@ about_me.description = {
         ],
         
   "Learning Goals" : [
-        "UX", "UI", "JavaScript"
+        "NEAT", "Transformers", "UX", "UI", "JavaScript"
         ]
 }
 ```
