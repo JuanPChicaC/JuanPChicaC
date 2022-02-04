@@ -13,7 +13,7 @@ about_me.description = {
           ],
           
     "askMeAbout" : [
-          "Data Science", "Machine Learning", "Optimization", "Economics", "Games Theory"
+          "Data Science", "Machine Learning", "Optimization", "Games Theory"
           ],
           
     "knowledge" : {
