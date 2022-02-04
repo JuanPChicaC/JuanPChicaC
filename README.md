@@ -6,10 +6,14 @@
 
 
 ```python
-about_me = {
+about_me.description = {
 
-    "code" : ["Python", "R", "SQL","NoSQL"],
-    "askMeAbout" : ["Data Science", "Machine Learning", "Optimization", "Economics"],
+    "code" : [ 
+          "Python", "R", "SQL","NoSQL"
+          ],
+    "askMeAbout" : [
+          "Data Science", "Machine Learning", "Optimization", "Economics"
+          ],
     "knowledge" : {
     
         "Unsupervised Learning" : {
@@ -32,26 +36,29 @@ about_me = {
         "Optimization" : {
             "Topics": ["Static Optimization", "Dynamic Optimization"],
             "Fraameworks & Libraries": ["Gekko", "Scipy"]
-            },
-            
-        "DataBases" : [
-            "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
-            ],
-            
-        "Backend" : [
-            "Flask", "FastAPI"
-            ],
-        misc: 
-          [
-          "Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
+            }
+        },
+      
+  "DataBases" : [
+        "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
+         ],   
+  
+  "Backend" : [
+        "Flask", "FastAPI"
+         ],
+       
+  "misc": [
+        "Spark","DataBricks","Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
           ],
-    "architecture": [
-        "Web Services", "Progressive web applications", "Single page applications"
-            ],
-    "Cloud Technoliges" : [
+          
+  "architecture": [
+        "Web Services", "Lambda (Server less)"
+        ],
+        
+  "Cloud Technoliges" : [
         "AWS", "Azure"
         ],
-    "Learning Goals" : [
+  "Learning Goals" : [
         "UX", "UI", "JavaScript"
         ]
 }
