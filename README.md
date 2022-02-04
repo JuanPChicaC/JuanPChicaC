@@ -1,7 +1,7 @@
 
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
-  <h3 align="center" id="heading">Data Scientist</h3>
+  <h4 align="center" id="heading">Data Scientist and pasionate about data development</h4>
 </div>
 
 
