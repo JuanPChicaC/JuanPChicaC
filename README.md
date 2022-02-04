@@ -8,13 +8,11 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python", "R", "SQL","NoSQL"],
+    askMeAbout: ["Data Science", "Machine Learning", "Optimization", "Economics"],
     technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+        Unsupervised Learning: {
+            topics : [],
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
