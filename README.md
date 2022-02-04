@@ -11,9 +11,11 @@ about_me.description = {
     "code" : [ 
           "Python", "R", "SQL","NoSQL"
           ],
+          
     "askMeAbout" : [
           "Data Science", "Machine Learning", "Optimization", "Economics"
           ],
+          
     "knowledge" : {
     
         "Unsupervised Learning" : {
@@ -58,6 +60,7 @@ about_me.description = {
   "Cloud Technoliges" : [
         "AWS", "Azure"
         ],
+        
   "Learning Goals" : [
         "UX", "UI", "JavaScript"
         ]
