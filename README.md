@@ -5,12 +5,12 @@
 </div>
 
 
-```javascript
+```python
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Python", "R", "SQL","NoSQL"],
     askMeAbout: ["Data Science", "Machine Learning", "Optimization", "Economics"],
-    technologies: {
+    knowledge: {
         Unsupervised Learning: {
             topics : [],
         },
