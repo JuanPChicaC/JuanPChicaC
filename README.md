@@ -6,15 +6,16 @@
 
 
 ```python
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Python", "R", "SQL","NoSQL"],
-    askMeAbout: ["Data Science", "Machine Learning", "Optimization", "Economics"],
-    knowledge: {
-        Unsupervised Learning: {
-            topics : [],
+about_me = {
+
+    "code" : ["Python", "R", "SQL","NoSQL"],
+    "askMeAbout" : ["Data Science", "Machine Learning", "Optimization", "Economics"],
+    "knowledge" : {
+        "Unsupervised Learning" : {
+            "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
+            "Framework"
         },
-        backEnd: {
+        "Supervised Learning" : {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
