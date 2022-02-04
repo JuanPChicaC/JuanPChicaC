@@ -1,7 +1,7 @@
 
 <div>
-  <h3 align="center" id="heading">Hi, I'm Juan Pablo 👋</h3>
-  <h4 align="center" id="heading">Data Scientist</h4>
+  <h2 align="center" id="heading">Hi, I'm Juan Pablo 👋</h2>
+  <h3 align="center" id="heading">Data Scientist</h3>
 </div>
 
 
