@@ -1,6 +1,6 @@
 
 <div>
-  <h2 align="center" id="heading">Hi, I'm Juan Pablo 👋</h2>
+  <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
   <h3 align="center" id="heading">Data Scientist</h3>
 </div>
 
@@ -31,8 +31,8 @@ about_me.description = {
             },
             
         "Reinforcement Learning" : {
-            "Topics": ["classic control", "Convolutional NN", "Recurrent NN", "Multi layer perceptron"],
-            "Fraameworks & Libraries": ["Keras RL", "tf RL","Stable-baselines"]
+            "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
+            "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
             },
             
         "Optimization" : {
