@@ -1,9 +1,11 @@
-#### Hi, I'm Juan Pablo 👋
+
+### <h3 align="center" id="heading">  Hi, I'm Juan Pablo 👋  </h3>
+## <h3 align="center" id="heading">  Data Scientist  </h3>
 
 [Heading](#heading)
 
 
-### <h3 align="center" id="heading">Heading</h3>
+
 
 
 
