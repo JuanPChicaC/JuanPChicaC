@@ -153,7 +153,7 @@ class About_Me():
 </h4>
 <br>
 
-<p style="margin-left: 40px;">
+<p style="margin-left: 40px">
 This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of optimization model for any possible selected portfolio. 
 </p>
 
