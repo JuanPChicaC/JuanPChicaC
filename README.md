@@ -1,7 +1,7 @@
 
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
-  <h4 align="center" id="heading">Data Scientist and Pasionate About Data-Related Development</h4>
+  <h4 align="center" id="heading">Data Scientist and Passionate About Data-Related Development</h4>
 </div>
 
 
@@ -54,7 +54,7 @@ about_me.description = {
           ],
           
   "architecture": [
-        "Web Services", "Lambda (Server less)"
+        "Web Services", "Lambda (Serverless)"
         ],
         
   "Cloud Technoliges" : [
@@ -67,7 +67,13 @@ about_me.description = {
 }
 ```
 
-<h2 align = "center" id = "heading" font-weight =  bold> My Projects 💬 </h2>
+<h2 align = "center" font-weight =  bold> My Projects 💬 </h2>
+
+
+<h3 font-weight =  bold> Optimal portfolio Service 💬 </h3>
+
+
+
 
 
 <!--
