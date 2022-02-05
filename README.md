@@ -72,10 +72,10 @@ about_me.description = {
 
 <h3 font-weight =  bold> Optimal Portfolio delivery Service  💵📈 </h3>
 <h4 font-weight =  bold> Stack: </h4
-<div style="text-align: left;">
+<p style="text-align: left;">
   <img src="https://img.shields.io/badge/-Python-yellowe" alt="Python Label" />
   <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL Label" />
-</div>
+</p>
 
 <h3 font-weight =  bold> Salaries Suggestion Service 💼📊 </h3>
 <h4 font-weight =  bold> Stack: </h4>
