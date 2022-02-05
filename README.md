@@ -146,17 +146,17 @@ class About_Me():
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
-<h4 font-weight = bold> 
-  <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
-    Portfolio Optimization Model
-  </a>
-</h4>
-<br>
-
-<p style="margin-left: 40px">
-This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of optimization model for any possible selected portfolio. 
-</p>
-
+<span>
+  <h4 font-weight = bold> 
+    <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+      Portfolio Optimization Model
+    </a>
+  </h4>
+  <p style="margin-left: 40px">
+    This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of 
+    optimization model for any possible selected portfolio. 
+  </p>
+<span>
 
 <br>
 <br>
