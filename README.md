@@ -6,65 +6,69 @@
 
 
 ```python
-about_me.description = {
+class About_Me():
 
-    "code" : [ 
-          "Python", "R", "SQL","NoSQL"
-          ],
-          
-    "askMeAbout" : [
-          "Data Science", "Machine Learning", "Optimization", "Games Theory"
-          ],
-          
-    "knowledge" : {
-    
-        "Unsupervised Learning" : {
-            "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
-            "Fraameworks & Libraries" :["scikit-Learn"]
+  def__init__(self, name = "Juan Pablo Chica Castrillón"):
+
+    self.description = {
+
+        "code" : [ 
+              "Python", "R", "SQL","NoSQL"
+              ],
+
+        "askMeAbout" : [
+              "Data Science", "Machine Learning", "Optimization", "Games Theory"
+              ],
+
+        "knowledge" : {
+
+            "Unsupervised Learning" : {
+                "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
+                "Fraameworks & Libraries" :["scikit-Learn"]
+                },
+
+            "Supervised Learning" : {
+                "Topics": ["Deep Learning", "NLP",  "Convolutional NN", "Recurrent NN", "LSTM NN",
+                           "Multi layer perceptron", "Linear Regression","Support vector machine",
+                           "Decision Trees", "ARIMA models"],
+                "Fraameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
+                },
+
+            "Reinforcement Learning" : {
+                "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
+                "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
+                },
+
+            "Optimization" : {
+                "Topics": ["Static Optimization", "Dynamic Optimization"],
+                "Fraameworks & Libraries": ["Gekko", "Scipy"]
+                }
             },
-            
-        "Supervised Learning" : {
-            "Topics": ["Deep Learning", "NLP",  "Convolutional NN", "Recurrent NN", "LSTM NN",
-                       "Multi layer perceptron", "Linear Regression","Support vector machine",
-                       "Decision Trees", "ARIMA models"],
-            "Fraameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
-            },
-            
-        "Reinforcement Learning" : {
-            "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
-            "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
-            },
-            
-        "Optimization" : {
-            "Topics": ["Static Optimization", "Dynamic Optimization"],
-            "Fraameworks & Libraries": ["Gekko", "Scipy"]
-            }
-        },
-      
-  "DataBases" : [
-        "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
-         ],   
-  
-  "Backend" : [
-        "Flask", "FastAPI"
-         ],
-       
-  "misc": [
-        "Spark","DataBricks","Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
-          ],
-          
-  "architecture": [
-        "Web Services", "Lambda (Serverless)"
-        ],
-        
-  "Cloud Technoliges" : [
-        "AWS", "Azure"
-        ],
-        
-  "Learning Goals" : [
-        "NEAT", "Transformers", "UX", "UI", "JavaScript"
-        ]
-}
+
+      "DataBases" : [
+            "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
+             ],   
+
+      "Backend" : [
+            "Flask", "FastAPI"
+             ],
+
+      "misc": [
+            "Spark","DataBricks","Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
+              ],
+
+      "architecture": [
+            "Web Services", "Lambda (Serverless)"
+            ],
+
+      "Cloud Technoliges" : [
+            "AWS", "Azure"
+            ],
+
+      "Learning Goals" : [
+            "NEAT", "Transformers", "UX", "UI", "JavaScript"
+            ]
+      }
 ```
 
 <h2 align = "center" font-weight =  bold> My Projects 💬 </h2>
