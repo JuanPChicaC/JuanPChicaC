@@ -1,9 +1,4 @@
-<style>
-    .tab {
-        display: inline-block;
-        margin-left: 40px;
-    }
-</style>
+
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
   <h4 align="center" id="heading">Data Scientist and Passionate About Data-Related Development</h4>
@@ -171,7 +166,8 @@ class About_Me():
   </h4>
   <p>
     This repository contains all the files related with database creation, it includes:<br> 
-    <space>ERD of the database<br>
+    <span style = "display: inline-block; margin-left: 40px;"></span>
+        ERD of the database<br>
     <space>Database codification<br>
     <space>Triggers Codification<br>
     <space>Store Procedures codification<br>
