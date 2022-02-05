@@ -125,7 +125,7 @@ class About_Me():
       <img src="https://img.shields.io/badge/-Selenium-AAAAAA"/>
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-BeautifulSoup-FFC0CB"/>
+      <img src="https://img.shields.io/badge/-BeautifulSoup-green"/>
     </span>
   </span>
 </p>
@@ -143,10 +143,11 @@ class About_Me():
 <h4 font-weight =  bold> Repositories </h4>
 <span>
   This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
-  each repository works independents from in the other in case that an specific functionality want to be taken.
+  each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
- 
- 
+<br>
+ <h5 font-weight =  bold> Portfolio Optimization Model </h5>
+ <br>
 
 
 <br>
