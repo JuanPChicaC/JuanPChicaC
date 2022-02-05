@@ -120,7 +120,17 @@ about_me.description = {
   </span>
 </p>
 
-
+<h4 font-weight =  bold> About the project </h4>
+<span>
+  This project offers as a result a web service that gives portfolio's distribution suggestions based on the investment interests of the end client (Investors or third party 
+  apps). The "Portfolio Delivery Service" has two main objectives, the first one is to show to developers that suggestions systems are not just only based into *Machine 
+  Learning* models, in this case is sufficient just to solve a optimization problem to give an advise about portfolio management to an end client (without write any specific 
+  code rule). 
+  On the other hand, the project prettend to give an example about how a theorical models could be bringged into production to offer real solutions for people, the **Modern 
+  Portfolio Theory** (created by Harry Markowitz in 1952) was the concept that is encapsulated to give answer about the investment advise askings that comes from clients in 
+  order to minmize the risk per expected return of enitre portfolios-
+</span>
+ 
 
 
 
