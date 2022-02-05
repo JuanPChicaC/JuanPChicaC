@@ -146,7 +146,7 @@ class About_Me():
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
-<span>
+<span  style = "display: inline-block; margin-left: 40px;">
   <h4 font-weight = bold> 
     <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
       Portfolio Optimization Model
@@ -166,7 +166,7 @@ class About_Me():
   </h4>
   <p>
     This repository contains all the files related with database creation, it includes:<br> 
-    <span style = "display: inline-block; margin-left: 40px;"></span>
+    <span></span>
         ERD of the database<br>
     <space>Database codification<br>
     <space>Triggers Codification<br>
