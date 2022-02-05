@@ -8,7 +8,7 @@
 ```Python
 class About_Me():
 
-  def __init__(self, name = "Juan Pablo", last_anme = "Chica Castrillón"):
+  def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón"):
 
     self.description = {
 
@@ -119,8 +119,14 @@ class About_Me():
       <img src="https://img.shields.io/badge/-Scipy-yellowgreen"/>
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Yahoo Finance-430297"/>
-    </span>    
+      <img src="https://img.shields.io/badge/-Yahoo Finance API-430297"/>
+    </span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Selenium-AAAAAA"/>
+    </span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-BeautifulSoup-FFC0CB"/>
+    </span>
   </span>
 </p>
 
@@ -134,7 +140,11 @@ class About_Me():
   per expected return of client portfolios.
 </span>
  
-<h4 font-weight =  bold> About the project </h4>
+<h4 font-weight =  bold> Repositories </h4>
+<span>
+  This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
+  each repository works independents from in the other in case that an specific functionality want to be taken.
+</span>
  
  
 
