@@ -146,7 +146,11 @@ class About_Me():
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
-<h4 font-weight = bold src = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model> Portfolio Optimization Model </h4>
+<h4 font-weight = bold> 
+  <a src = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model>
+    Portfolio Optimization Model
+  </a>
+</h4>
 <br>
 
 
