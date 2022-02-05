@@ -147,7 +147,7 @@ class About_Me():
 </span>
 <br>
 <h4 font-weight = bold> 
-  <a src = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model>
+  <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model>
     Portfolio Optimization Model
   </a>
 </h4>
