@@ -8,7 +8,7 @@
 ```python
 class About_Me():
 
-  def__init__(self, name = "Juan Pablo Chica Castrillón"):
+  def __init__(self, name = "Juan Pablo Chica Castrillón"):
 
     self.description = {
 
