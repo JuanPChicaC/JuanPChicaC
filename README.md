@@ -1,4 +1,9 @@
-
+<style>
+    .tab {
+        display: inline-block;
+        margin-left: 40px;
+    }
+</style>
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
   <h4 align="center" id="heading">Data Scientist and Passionate About Data-Related Development</h4>
