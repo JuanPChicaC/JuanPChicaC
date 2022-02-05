@@ -75,13 +75,13 @@ about_me.description = {
 <p>
   <span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Python-yellowe" alt="Python Label" />
+      <img src="https://img.shields.io/badge/-Python-yellow" />
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL Label" />
+      <img src="https://img.shields.io/badge/-MySQL-blue"/>
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Python-yellowe" alt="Python Label" />
+      <img src="https://img.shields.io/badge/-FastAPI-green" />
     </span>
     <span style = "pading : 2px; display: inline;">
       <img src="https://img.shields.io/badge/-Python-yellowe" alt="Python Label" />
