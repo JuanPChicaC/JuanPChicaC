@@ -70,7 +70,15 @@ about_me.description = {
 <h2 align = "center" font-weight =  bold> My Projects 💬 </h2>
 
 
-<h3 font-weight =  bold> Optimal portfolio Service 💬 </h3>
+<h3 font-weight =  bold> Optimal Portfolio delivery Service  💵📈 </h3>
+
+
+
+
+
+<h3 font-weight =  bold> salaries suggester service 💼📊 </h3>
+
+
 
 
 
