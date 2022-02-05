@@ -96,7 +96,7 @@ about_me.description = {
       <img src="https://img.shields.io/badge/-Scipy-yellowgreen"/>
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Yahoo Finance-blueviolet"/>
+      <img src="https://img.shields.io/badge/-Yahoo Finance-#430297"/>
     </span>    
   </span>
 </p>
