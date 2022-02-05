@@ -71,6 +71,18 @@ about_me.description = {
 
 
 <h3 font-weight =  bold> Optimal Portfolio delivery Service  💵📈 </h3>
+<h4 font-weight =  bold> Topics: </h4
+<p>
+  <span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Optimization-black" />
+    </span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Web Service-success" />
+    </span>    
+  </span>
+</p>
+
 <h4 font-weight =  bold> Stack: </h4
 <p>
   <span>
