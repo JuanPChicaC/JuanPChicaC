@@ -75,7 +75,7 @@ class About_Me():
 
 
 <h3 font-weight =  bold align = "center"> Optimal Portfolio Delivery Service  💵📈 </h3>
-<h4 font-weight =  bold> Topics: </h4>
+<h3 font-weight =  bold> Topics: </h3>
 <p>
   <span>
     <span style = "pading : 2px; display: inline;">
@@ -94,7 +94,7 @@ class About_Me():
   </span>
 </p>
 
-<h4 font-weight =  bold> Stack: </h4>
+<h3 font-weight =  bold> Stack: </h3>
 <p>
   <span>
     <span style = "pading : 2px; display: inline;">
@@ -129,8 +129,8 @@ class About_Me():
     </span>
   </span>
 </p>
-
-<h4 font-weight =  bold> About the project </h4>
+<br>
+<h3 font-weight =  bold> About the project </h3>
 <span>
   This project offers as a result a web service that gives portfolio distribution suggestions based on the investment interests of the client (Investors or third party 
   apps). The <b><i>Portfolio Delivery Service</i></b> has two main objectives, the first one is to show to developers that suggestions systems are not just only based into 
@@ -140,14 +140,14 @@ class About_Me():
   per expected return of client portfolios.
 </span>
  
-<h4 font-weight =  bold> Repositories </h4>
+<h3 font-weight =  bold> Repositories </h3>
 <span>
   This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
- <h5 font-weight =  bold> Portfolio Optimization Model </h5>
- <br>
+<h4 font-weight =  "bold" src = "https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model"> Portfolio Optimization Model </h4>
+<br>
 
 
 <br>
