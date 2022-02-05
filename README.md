@@ -140,7 +140,7 @@ class About_Me():
   per expected return of client portfolios.
 </span>
  
-<h3 font-weight =  bold> Repositories </h3>
+<h3 font-weight =  bold> Repositories: </h3>
 <span>
   This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
   each repository works independent from others in case that just one specific functionality want to be taken.
@@ -152,13 +152,32 @@ class About_Me():
       Portfolio Optimization Model
     </a>
   </h4>
-  <p style="margin-left: 40px">
+  <p>
     This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of 
     optimization model for any possible selected portfolio. 
   </p>
 <span>
-
 <br>
+<span>
+  <h4 font-weight = bold> 
+    <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+      DataBase Definition
+    </a>
+  </h4>
+  <p>
+    This repository contains all the files related with database creation, it includes:<br> 
+    <space>ERD of the database<br>
+    <space>Database codification<br>
+    <space>Triggers Codification<br>
+    <space>Store Procedures codification<br>
+    <space>Used functions<br>
+    <space>First data update
+  </p>
+<span>
+
+  
+  
+  
 <br>
 <br>
 <br>
