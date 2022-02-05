@@ -70,8 +70,8 @@ about_me.description = {
 <h2 align = "center" font-weight =  bold> My Projects 💬 </h2>
 
 
-<h3 font-weight =  bold> Optimal Portfolio delivery Service  💵📈 </h3>
-<h4 font-weight =  bold> Topics: </h4
+<h3 font-weight =  bold> Optimal Portfolio Delivery Service  💵📈 </h3>
+<h4 font-weight =  bold> Topics: </h4>
 <p>
   <span>
     <span style = "pading : 2px; display: inline;">
@@ -90,7 +90,7 @@ about_me.description = {
   </span>
 </p>
 
-<h4 font-weight =  bold> Stack: </h4
+<h4 font-weight =  bold> Stack: </h4>
 <p>
   <span>
     <span style = "pading : 2px; display: inline;">
@@ -119,12 +119,17 @@ about_me.description = {
     </span>    
   </span>
 </p>
+
+
+
+
+
 <br>
 <br>
 <h3 font-weight =  bold> Salaries Suggestion Service 💼📊 </h3>
 <h4 font-weight =  bold> Stack: </h4>
 
-
+<h4 font-weight =  bold> About the project </h4>
 
 
 
