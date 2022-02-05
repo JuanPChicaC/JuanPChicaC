@@ -90,12 +90,18 @@ about_me.description = {
       <img src="https://img.shields.io/badge/-Pandas-blueviolet"/>
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Numpys-ff69b4"/>
+      <img src="https://img.shields.io/badge/-Numpy-ff69b4"/>
     </span>
-    
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Scipy-yellowgreen"/>
+    </span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Yahoo Finance-blueviolet"/>
+    </span>    
   </span>
 </p>
-
+<br>
+<br>
 <h3 font-weight =  bold> Salaries Suggestion Service 💼📊 </h3>
 <h4 font-weight =  bold> Stack: </h4>
 
