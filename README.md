@@ -154,7 +154,7 @@ class About_Me():
 <br>
 <div>
   <a style = "text-indent: 10%;">
-    This repository contains all the explanation related with the model that was used in the service
+    This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of optimization model for any possible selected portfolio. 
   </a>
 </div>
 
