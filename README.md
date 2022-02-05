@@ -147,11 +147,17 @@ class About_Me():
 </span>
 <br>
 <h4 font-weight = bold> 
-  <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model>
+  <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
     Portfolio Optimization Model
   </a>
 </h4>
 <br>
+<span>
+  <a>
+    This repository contains all the explanation related with the model that was used in the service
+  </a>
+</span>
+
 
 
 <br>
