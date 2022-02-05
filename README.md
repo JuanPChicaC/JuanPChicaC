@@ -71,13 +71,14 @@ about_me.description = {
 
 
 <h3 font-weight =  bold> Optimal Portfolio delivery Service  💵📈 </h3>
+<h4 font-weight =  bold> Stack: </h4>
 
 
 
 
 
-<h3 font-weight =  bold> salaries suggester service 💼📊 </h3>
-
+<h3 font-weight =  bold> Salaries Suggestion service 💼📊 </h3>
+<h4 font-weight =  bold> Stack: </h4>
 
 
 
