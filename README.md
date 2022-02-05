@@ -152,11 +152,10 @@ class About_Me():
   </a>
 </h4>
 <br>
-<span style = "display:inline-block; text-indent: 20px;">
+
   <a style = "text-indent: 200px;">
     This repository contains all the explanation related with the model that was used in the service
   </a>
-</span>
 
 
 
