@@ -78,8 +78,15 @@ about_me.description = {
       <img src="https://img.shields.io/badge/-Optimization-black" />
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Web Service-success" />
+      <img src="https://img.shields.io/badge/-Financial Markets-critical" />
     </span>    
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Web Service-success" />
+    </span>
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Time Series-informational" />
+    </span>
+
   </span>
 </p>
 
