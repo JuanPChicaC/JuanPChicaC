@@ -5,10 +5,10 @@
 </div>
 
 
-```python
+```Python
 class About_Me():
 
-  def __init__(self, name = "Juan Pablo Chica Castrillón"):
+  def __init__(self, name = "Juan Pablo", last_anme = "Chica Castrillón"):
 
     self.description = {
 
