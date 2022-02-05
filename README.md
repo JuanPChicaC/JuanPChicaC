@@ -153,7 +153,7 @@ class About_Me():
 </h4>
 <br>
 <span>
-  <p style = "text-indent: 10%;">
+  <p style="text-indent: 40px;">
     This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of optimization model for any possible selected portfolio. 
   </p>
 </span>
