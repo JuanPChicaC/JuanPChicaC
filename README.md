@@ -10,7 +10,7 @@ import json
 
 class Resume():
 
-  def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón"):
+  def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón", ""):
   
     self.code = [
         "Python", "R", "SQL","NoSQL"
@@ -192,16 +192,16 @@ print(
     </h4>
     <p>
       This repository has all the files related with database definition and creation, it includes:
-      <ul>
-        <li>ERD of the database</li>
-        <li>Database codification</li>
-        <li>ERD of the database</li>
-        <li>Triggers Codification</li>
-        <li>Store Procedures codification</li>
-        <li>Functions definition</li>
-        <li>First data update</li>
-      </ul>
     </p>
+    <ul>
+      <li>ERD of the database</li>
+      <li>Database codification</li>
+      <li>ERD of the database</li>
+      <li>Triggers Codification</li>
+      <li>Store Procedures codification</li>
+      <li>Functions definition</li>
+      <li>First data update</li>
+    </ul>    
   </li>
   <li>
         
