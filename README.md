@@ -65,7 +65,7 @@ class Resume():
           "AWS", "Azure"
           ]
 
-    self.learning goals = [
+    self.learning_goals = [
           "NEAT", "Transformers", "UX", "UI", "JavaScript"
           ]
 
