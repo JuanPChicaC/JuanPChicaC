@@ -189,8 +189,8 @@ print(
   </h4>
 </span>
 <span >
-  <span style = "display: inline; left-margin: 50%">
-    <p style ="text-indent: 50%;">
+  <span style = "display: inline; left-margin: 50%;">
+    <p>
       This repository contains all the files related with database creation, it includes:<br> 
       ERD of the database<br>
       Database codification<br>
