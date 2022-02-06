@@ -69,23 +69,23 @@ class Resume():
           "NEAT", "Transformers", "UX", "UI", "JavaScript"
           ]
 
-    def __str__(self):
-        
-        consolidated_resume =  {
-            "Ask Me About" : self.ask_me_about,
-            "Code Knowledge" : self.code,
-            "Topics Knowledge" : self.knowledge,
-            "Databases Knowledge": self.databases,
-            "Backend Knowledge" : self.backend,
-            "Architecture Knowledge" : self.architecture,
-            "Cloud Knowledge" : self.cloud_technoliges,
-            "Miscellaneous" : self.misc,
-            "Learning Goals" : self.learning_goals
-            }
-        return json.dumps(
-            consolidated_resume,
-            indent = 4
-            )
+  def __str__(self):
+
+      consolidated_resume =  {
+          "Ask Me About" : self.ask_me_about,
+          "Code Knowledge" : self.code,
+          "Topics Knowledge" : self.knowledge,
+          "Databases Knowledge": self.databases,
+          "Backend Knowledge" : self.backend,
+          "Architecture Knowledge" : self.architecture,
+          "Cloud Knowledge" : self.cloud_technoliges,
+          "Miscellaneous" : self.misc,
+          "Learning Goals" : self.learning_goals
+          }
+      return json.dumps(
+          consolidated_resume,
+          indent = 4
+          )
            
 
 print(
