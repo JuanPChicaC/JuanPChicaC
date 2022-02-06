@@ -188,19 +188,17 @@ print(
     </a>
   </h4>
 </span>
-<span style = "display: inline; margin-left: 50px;">
-  <span style = "display: inline; margin-left: 50px;">
-    <p style = "display: inline; margin-left: 50px;">
-      This repository contains all the files related with database creation, it includes:<br> 
-      ERD of the database<br>
-      Database codification<br>
-      Triggers Codification<br>
-      Store Procedures codification<br>
-      Used functions<br>
-      First data update
-    </p>
-  </span>
-</span>
+
+<p style = "margin-left: 50px;">
+  This repository contains all the files related with database creation, it includes:<br> 
+  ERD of the database<br>
+  Database codification<br>
+  Triggers Codification<br>
+  Store Procedures codification<br>
+  Used functions<br>
+  First data update
+</p>
+
 
   
   
