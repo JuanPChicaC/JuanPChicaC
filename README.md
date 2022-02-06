@@ -184,6 +184,7 @@ print(
       optimization model for any possible selected portfolio. 
     </p>
   </li>
+  <li>
     <h4 font-weight = bold> 
       <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
         DataBase Definition
@@ -201,7 +202,9 @@ print(
         <li>First data update</li>
       </ul>
     </p>
+  </li>
   <li>
+        
   </li>
 
 </ul>
