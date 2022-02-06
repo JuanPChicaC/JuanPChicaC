@@ -189,7 +189,7 @@ print(
   </h4>
 </span>
 <span >
-  <p style ="text-indent: 0;">
+  <p style ="text-indent: 50%;">
     This repository contains all the files related with database creation, it includes:<br> 
     ERD of the database<br>
     Database codification<br>
