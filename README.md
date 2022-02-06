@@ -184,43 +184,30 @@ print(
       optimization model for any possible selected portfolio. 
     </p>
   </li>
+    <h4 font-weight = bold> 
+      <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+        DataBase Definition
+      </a>
+    </h4>
+    <p>
+      This repository has all the files related with database definition and creation, it includes:
+      <ul>
+        <li>ERD of the database</li>
+        <li>Database codification</li>
+        <li>ERD of the database</li>
+        <li>Triggers Codification</li>
+        <li>Store Procedures codification</li>
+        <li>Functions definition</li>
+        <li>First data update</li>
+      </ul>
+    </p>
+  <li>
+  </li>
 
 </ul>
 
 
 
-
-<span  style = "display: inline-block; margin-left: 40px;">
-  <h4 font-weight = bold> 
-    <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
-      Portfolio Optimization Model
-    </a>
-  </h4>
-  <p>
-    This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of 
-    optimization model for any possible selected portfolio. 
-  </p>
-<span>
-<br>
-<span>
-  <h4 font-weight = bold> 
-    <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
-      DataBase Definition
-    </a>
-  </h4>
-</span>
-
-<pre>
-  This repository contains all the files related with database creation, it includes:<br> 
-  ERD of the database<br>
-  Database codification<br>
-  Triggers Codification<br>
-  Store Procedures codification<br>
-  Used functions<br>
-  First data update
-</pre>
-
-</body>
 
   
   
