@@ -6,69 +6,92 @@
 
 
 ```Python
-class About_Me():
+import json
+
+class Resume():
 
   def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón"):
+  
+    self.code = [
+        "Python", "R", "SQL","NoSQL"
+        ]
+    
+    self.ask_me_about = [
+        "Data Science", "Machine Learning", "Optimization", "Games Theory"
+        ] 
+    
+    self.knowledge = {
 
-    self.description = {
-
-        "code" : [ 
-              "Python", "R", "SQL","NoSQL"
-              ],
-
-        "askMeAbout" : [
-              "Data Science", "Machine Learning", "Optimization", "Games Theory"
-              ],
-
-        "knowledge" : {
-
-            "Unsupervised Learning" : {
-                "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
-                "Fraameworks & Libraries" :["scikit-Learn"]
-                },
-
-            "Supervised Learning" : {
-                "Topics": ["Deep Learning", "NLP",  "Convolutional NN", "Recurrent NN", "LSTM NN",
-                           "Multi layer perceptron", "Linear Regression","Support vector machine",
-                           "Decision Trees", "ARIMA models"],
-                "Fraameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
-                },
-
-            "Reinforcement Learning" : {
-                "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
-                "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
-                },
-
-            "Optimization" : {
-                "Topics": ["Static Optimization", "Dynamic Optimization"],
-                "Fraameworks & Libraries": ["Gekko", "Scipy"]
-                }
+        "Unsupervised Learning" : {
+            "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
+            "Fraameworks & Libraries" :["scikit-Learn"]
             },
 
-      "DataBases" : [
-            "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
-             ],   
+        "Supervised Learning" : {
+            "Topics": ["Deep Learning", "NLP",  "Convolutional NN", "Recurrent NN", "LSTM NN",
+                       "Multi layer perceptron", "Linear Regression","Support vector machine",
+                       "Decision Trees", "ARIMA models"],
+            "Fraameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
+            },
 
-      "Backend" : [
-            "Flask", "FastAPI"
-             ],
+        "Reinforcement Learning" : {
+            "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
+            "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
+            },
 
-      "misc": [
-            "Spark","DataBricks","Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
-              ],
+        "Optimization" : {
+            "Topics": ["Static Optimization", "Dynamic Optimization"],
+            "Fraameworks & Libraries": ["Gekko", "Scipy"]
+            }
+        }
 
-      "architecture": [
-            "Web Services", "Lambda (Serverless)"
-            ],
+    self.databases = [
+        "mongo", "MySql", "sPostgreSQL","Netezza", "SQL Server"
+         ]
 
-      "Cloud Technoliges" : [
-            "AWS", "Azure"
-            ],
+    self.backend = [
+          "Flask", "FastAPI"
+           ]
 
-      "Learning Goals" : [
-            "NEAT", "Transformers", "UX", "UI", "JavaScript"
+    self.misc = [
+          "Spark","DataBricks","Selenium", "BeautifulSoup", "NLTK", "Pandas", "Numpy", "SqlAlchemy", "DASH" 
             ]
-      }
+
+    self.architecture = [
+          "Web Services", "Lambda (Serverless)"
+          ]
+
+    self.cloud_technoliges = [
+          "AWS", "Azure"
+          ]
+
+    self.learning goals = [
+          "NEAT", "Transformers", "UX", "UI", "JavaScript"
+          ]
+
+    def __str__(self):
+        
+        consolidated_resume =  {
+            "Ask Me About" : self.ask_me_about,
+            "Code Knowledge" : self.code,
+            "Topics Knowledge" : self.knowledge,
+            "Databases Knowledge": self.databases,
+            "Backend Knowledge" : self.backend,
+            "Architecture Knowledge" : self.architecture,
+            "Cloud Knowledge" : self.cloud_technoliges,
+            "Miscellaneous" : self.misc,
+            "Learning Goals" : self.learning_goals
+            }
+        return json.dumps(
+            consolidated_resume,
+            indent = 4
+            )
+           
+
+print(
+    Resume()
+    )
+ 
 ```
 
 <h2 align = "center" font-weight =  bold> My Projects 💬 </h2>
