@@ -164,11 +164,32 @@ print(
 </span>
  
 <h3 font-weight =  bold> Repositories: </h3>
+
+
+
 <span>
   This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
+<ul>
+  <li>
+    <h4 font-weight = bold> 
+      <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+        Portfolio Optimization Model
+      </a>
+    </h4>
+    <p>
+      This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of 
+      optimization model for any possible selected portfolio. 
+    </p>
+  </li>
+
+</ul>
+
+
+
+
 <span  style = "display: inline-block; margin-left: 40px;">
   <h4 font-weight = bold> 
     <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
