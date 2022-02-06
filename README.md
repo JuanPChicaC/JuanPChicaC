@@ -187,17 +187,18 @@ print(
       DataBase Definition
     </a>
   </h4>
-  <p>
+</span>
+<span >
+  <p left-margin = 200px>
     This repository contains all the files related with database creation, it includes:<br> 
-    <span></span>
-        ERD of the database<br>
-    <space>Database codification<br>
-    <space>Triggers Codification<br>
-    <space>Store Procedures codification<br>
-    <space>Used functions<br>
-    <space>First data update
+    ERD of the database<br>
+    Database codification<br>
+    Triggers Codification<br>
+    Store Procedures codification<br>
+    Used functions<br>
+    First data update
   </p>
-<span>
+</span>
 
   
   
