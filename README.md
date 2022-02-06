@@ -189,15 +189,17 @@ print(
   </h4>
 </span>
 <span >
-  <p style ="text-indent: 50%;">
-    This repository contains all the files related with database creation, it includes:<br> 
-    ERD of the database<br>
-    Database codification<br>
-    Triggers Codification<br>
-    Store Procedures codification<br>
-    Used functions<br>
-    First data update
-  </p>
+  <span style = "display: inline;">
+    <p style ="text-indent: 50%;">
+      This repository contains all the files related with database creation, it includes:<br> 
+      ERD of the database<br>
+      Database codification<br>
+      Triggers Codification<br>
+      Store Procedures codification<br>
+      Used functions<br>
+      First data update
+    </p>
+  </span>
 </span>
 
   
