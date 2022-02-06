@@ -188,7 +188,7 @@ print(
     </a>
   </h4>
 </span>
-
+<body>
 <p style = "margin-left: 50px;">
   This repository contains all the files related with database creation, it includes:<br> 
   ERD of the database<br>
@@ -199,6 +199,7 @@ print(
   First data update
 </p>
 
+</body>
 
   
   
