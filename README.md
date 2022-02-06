@@ -188,8 +188,8 @@ print(
     </a>
   </h4>
 </span>
-<body>
-<p style = "margin-left: 50px;">
+
+<pre><code>
   This repository contains all the files related with database creation, it includes:<br> 
   ERD of the database<br>
   Database codification<br>
@@ -197,7 +197,7 @@ print(
   Store Procedures codification<br>
   Used functions<br>
   First data update
-</p>
+</code></pre>
 
 </body>
 
