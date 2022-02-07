@@ -153,26 +153,26 @@ print(
   </span>
 </p>
 <br>
+
 <h3 font-weight =  bold> About the project </h3>
 <span>
-  This project offers as a result a web service that gives portfolio distribution suggestions based on the investment interests of the client (Investors or third party 
-  apps). The <b><i>Portfolio Delivery Service</i></b> has two main objectives, the first one is to show to developers that suggestions systems are not just only based into 
-  <b><i>Machine Learning</i></b> models, in this case is sufficient just to solve an optimization problem to give an advise about portfolio management. On the other hand, the 
-  project pretend to give an example about how a theorical model could be bringed into production to offer real solutions for people, the <b><i>Modern Portfolio Theory</i>
-  </b> (created by Harry Markowitz in 1952) was the concept that is encapsulated to give answer about the investment advise askings. The solution is aimed at minmize the risk 
-  per expected return of client portfolios.
-</span>
- 
+  <b>Portfolio Delivery Service</b> (PDS) is web service offered to minimize the risk-return tradeoff of an investment portfolio. Through an optimization model, based on the 
+  <i>Modern Portfolio Theory</i> by> Harry Markowitz (1952), and performing built-in customer risk assessment, PDS is capable to give advice about asset allocation and offers a 
+  group of custom-made portfolios. Furthermore, the built-in algorithm is more time-stable and scalable than current machine learning models that are input-size and 
+  training-sample dependent.  Hence, this project displays how a complex theory-based optimization model could be implemented to put into production and give real life 
+  solutions for the clients.
+</span> 
+
 <h3 font-weight =  bold> Repositories: </h3>
-
-
 
 <span>
   This list of repositories contain all the required scripts to replicate the project, the list will be presented in order to maintain the suggested track of development, but 
   each repository works independent from others in case that just one specific functionality want to be taken.
 </span>
 <br>
+
 <ul>
+
   <li>
     <h4 font-weight = bold> 
       <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
@@ -184,14 +184,15 @@ print(
       service. Additionally, it contains the library that generalize the usage for any possible selected portfolio. 
     </p>
   </li>
+
   <li>
     <h4 font-weight = bold> 
       <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
-        DataBase Definition
+        Portfolio optimization Database
       </a>
     </h4>
     <p>
-      The <b><i>DataBase Definition</i></b> repository has all the files required to create the datbase that will support the <b><i>Optimal Portfolio Delivery 
+      The <b><i>Portfolio optimization Database</i></b> repository has all the files required to create the datbase that will support the <b><i>Optimal Portfolio Delivery 
       Service</i></b>'s storeage requirements, it includes:
     </p>
     <ul>
@@ -203,6 +204,7 @@ print(
       <li>First data update</li>
     </ul>    
   </li>
+
   <li>
     <h4 font-weight = bold> 
       <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
