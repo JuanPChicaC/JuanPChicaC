@@ -157,7 +157,7 @@ print(
 <h3 font-weight =  bold> About the project </h3>
 <span>
   <b>Portfolio Delivery Service</b> (PDS) is web service offered to minimize the risk-return tradeoff of an investment portfolio. Through an optimization model, based on the 
-  <i>Modern Portfolio Theory</i> by> Harry Markowitz (1952), and performing built-in customer risk assessment, PDS is capable to give advice about asset allocation and offers a 
+  <i>Modern Portfolio Theory</i> by Harry Markowitz (1952), and performing built-in customer risk assessment, PDS is capable to give advice about asset allocation and offers a 
   group of custom-made portfolios. Furthermore, the built-in algorithm is more time-stable and scalable than current machine learning models that are input-size and 
   training-sample dependent.  Hence, this project displays how a complex theory-based optimization model could be implemented to put into production and give real life 
   solutions for the clients.
