@@ -1,7 +1,7 @@
 
 <div>
   <h2 align = "center" id = "heading" font-weight =  bold>Hi, I'm Juan Pablo 👋</h2>
-  <h4 align="center" id="heading">Data Scientist and Passionate About Data-Related Development</h4>
+  <h4 align="center" id="heading">Data Scientist, Developer and Economist</h4>
 </div>
 
 
@@ -180,23 +180,23 @@ print(
       </a>
     </h4>
     <p>
-      This repository contains all the explanation related with the model that was used in the service. Additionally, it contains the used library to generalize the usage of 
-      optimization model for any possible selected portfolio. 
+      The <b><i>Portfolio Optimization Model</i></b> repository contains all the explanation related with the optimization problem that has to be solved to be used in the 
+      service. Additionally, it contains the library that generalize the usage for any possible selected portfolio. 
     </p>
   </li>
   <li>
     <h4 font-weight = bold> 
-      <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+      <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
         DataBase Definition
       </a>
     </h4>
     <p>
-      This repository has all the files related with database definition and creation, it includes:
+      The <b><i>DataBase Definition</i></b> repository has all the files required to create the datbase that will support the <b><i>Optimal Portfolio Delivery 
+      Service</i></b>'s storeage requirements, it includes:
     </p>
     <ul>
       <li>ERD of the database</li>
       <li>Database codification</li>
-      <li>ERD of the database</li>
       <li>Triggers Codification</li>
       <li>Store Procedures codification</li>
       <li>Functions definition</li>
@@ -204,7 +204,20 @@ print(
     </ul>    
   </li>
   <li>
-        
+    <h4 font-weight = bold> 
+      <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+        Yahoo Finance ETL Process
+      </a>
+    </h4>
+    <p>
+      The repository contains the data pipeline that was used to update the "asset", "type of asset" and "exchange" tables that were contained in the database. the layers are:
+      <ul>
+        <li>
+          <p>Extraction Layer</p>
+          <p>WEb Scraping into the Yahoo Finance symbols List web page</p>
+        <li>
+      </ul>
+    </p>
   </li>
 
 </ul>
