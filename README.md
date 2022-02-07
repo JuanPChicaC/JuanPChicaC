@@ -111,9 +111,11 @@ print(
       <img src="https://img.shields.io/badge/-Web Service-success" />
     </span>
     <span style = "pading : 2px; display: inline;">
-      <img src="https://img.shields.io/badge/-Time Series-informational" />
+      <img src="https://img.shields.io/badge/-Data Engineering-informational" />
     </span>
-
+    <span style = "pading : 2px; display: inline;">
+      <img src="https://img.shields.io/badge/-Web Scraping-blueviolet" />
+    </span>
   </span>
 </p>
 
