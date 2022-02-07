@@ -226,7 +226,7 @@ print(
         </li>
         <li>
           <p><b>Load Layer</b></p>
-          <p>here, the informatiuon is pulled into 
+          <p>here, the informatiuon is pushed into 
             <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
               Portfolio Optimization DataBase
             </a>
