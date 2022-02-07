@@ -213,10 +213,26 @@ print(
       The repository contains the data pipeline that was used to update the "asset", "type of asset" and "exchange" tables that were contained in the database. the layers are:
       <ul>
         <li>
-          <p>Extraction Layer</p>
-          <p>WEb Scraping into the Yahoo Finance symbols List web page</p>
+          <p><b>Extraction Layer</b></p>
+          <p>Web Scraping in 
+            <a href = https://finance.yahoo.com/lookup>
+            Yahoo Finance symbols list
+            </a>
+          </p>
+        </li>
         <li>
-      </ul>
+          <p><b>Transformation Layer</b></p>
+          <p>In this layer, the raw information that comes from yahoo finance is normalized to fit in database structure</p>
+        </li>
+        <li>
+          <p><b>Load Layer</b></p>
+          <p>here, the informatiuon is pulled into 
+            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
+              Portfolio Optimization DataBase
+            </a>
+          </p>
+        </li>
+    </ul>
     </p>
   </li>
 
