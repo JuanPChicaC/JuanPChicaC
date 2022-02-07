@@ -240,7 +240,7 @@ print(
       <ul>
         <li>
           <p><b>Extraction Layer</b></p>
-          <p>Web Scraping in 
+          <p>Web Scrapper that mines the  
             <a href = https://finance.yahoo.com/lookup>
             Yahoo Finance symbols list
             </a>
@@ -248,11 +248,11 @@ print(
         </li>
         <li>
           <p><b>Transformation Layer</b></p>
-          <p>In this layer, the raw information that comes from yahoo finance is normalized to fit in database structure</p>
+          <p> Process that clean and normalize the information that comes from <b>Yahoo Finance</b> in order to fit into the database tables</p>
         </li>
         <li>
           <p><b>Load Layer</b></p>
-          <p>here, the informatiuon is pushed into 
+          <p>In this step, the informatiuon is pushed into 
             <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
               Portfolio Optimization DataBase
             </a>
