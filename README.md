@@ -193,7 +193,7 @@ print(
     </h4>
     <p>
       The <b><i>Portfolio optimization Database</i></b> repository has all the files required to create the storage instace that will support the <b><i>Optimal Portfolio 
-      Delivery Service</i></b> data saving requirements, it includes:
+      Delivery Service</i></b> requirements, it includes:
     </p>
     <ul>
       <li>
@@ -252,7 +252,7 @@ print(
         </li>
         <li>
           <p><b>Load Layer</b></p>
-          <p>In this step, the informatiuon is pushed into 
+          <p>In this step, the records are pushed into the 
             <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
               Portfolio Optimization DataBase
             </a>
