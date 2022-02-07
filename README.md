@@ -180,8 +180,8 @@ print(
       </a>
     </h4>
     <p>
-      The <b><i>Portfolio Optimization Model</i></b> repository contains all the explanation related with the optimization problem that has to be solved to be used in the 
-      service. Additionally, it contains the library that generalize the usage for any possible selected portfolio. 
+      The <b><i>Portfolio Optimization Model</i></b> repository contains all the explanation related with the <b><i>Markowitz optimization problem</i></b> that has to be solved 
+      to give advice about assets participation in the portfolio. Additionally, it contains the library that generalize the usage for any possible selected portfolio. 
     </p>
   </li>
 
@@ -192,16 +192,40 @@ print(
       </a>
     </h4>
     <p>
-      The <b><i>Portfolio optimization Database</i></b> repository has all the files required to create the datbase that will support the <b><i>Optimal Portfolio Delivery 
-      Service</i></b>'s storeage requirements, it includes:
+      The <b><i>Portfolio optimization Database</i></b> repository has all the files required to create the storage instace that will support the <b><i>Optimal Portfolio 
+      Delivery Service</i></b> data saving requirements, it includes:
     </p>
     <ul>
-      <li>ERD of the database</li>
-      <li>Database codification</li>
-      <li>Triggers Codification</li>
-      <li>Store Procedures codification</li>
-      <li>Functions definition</li>
-      <li>First data update</li>
+      <li>
+        <a href = https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/DataBase_ERD.png>
+          ERD of the database
+        </a>  
+      </li>
+      <li>
+        <a href = https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/database_model.py>
+          Database codification
+        </a>  
+      </li>
+      <li>
+        <a href = https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/triggers.py>
+          Triggers Codification
+        </a>
+      </li>
+      <li>
+        <a href = https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/procedures.py>
+          Store Procedures codification
+        </a>
+      </li>
+      <li>
+        <a href =https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/functions.py>
+          Functions definition
+        </a>
+      </li>
+      <li>
+        <a href = https://github.com/JuanPChicaC/DataBases/blob/main/SQL/Portfolio%20Optimization%20DataBase/database_update.py>
+          First data update
+        </a>
+      </li>
     </ul>    
   </li>
 
