@@ -24,19 +24,19 @@ class Resume():
 
         "Unsupervised Learning" : {
             "topics" : ["PCA", "K-Means", "hierarchical clustering", "KNN"],
-            "Fraameworks & Libraries" :["scikit-Learn"]
+            "Frameworks & Libraries" :["scikit-Learn"]
             },
 
         "Supervised Learning" : {
             "Topics": ["Deep Learning", "NLP",  "Convolutional NN", "Recurrent NN", "LSTM NN",
                        "Multi layer perceptron", "Linear Regression","Support vector machine",
                        "Decision Trees", "ARIMA models"],
-            "Fraameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
+            "Frameworks & Libraries": ["TensorFLow","PyTorch", "Scikit-Learn","Keras","statsmodels"]
             },
 
         "Reinforcement Learning" : {
             "Topics": ["classic control", "Robotics", "Algorithms", "Finance"],
-            "Fraameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
+            "Frameworks & Libraries": ["Keras RL", "TensorFlow RL","Stable-baselines"]
             },
 
         "Optimization" : {
