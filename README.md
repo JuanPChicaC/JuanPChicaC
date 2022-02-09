@@ -10,7 +10,7 @@ import json
 
 class Resume():
 
-  def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón", ""):
+  def __init__(self, name = "Juan Pablo", last_name = "Chica Castrillón"):
   
     self.code = [
         "Python", "R", "SQL","NoSQL"
