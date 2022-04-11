@@ -241,7 +241,11 @@ print(
       The repository contains the data pipeline that was used to update the "asset", "type of asset" and "exchange" tables that were contained in the database. the layers are:
       <ul>
         <li>
-          <p><b>Extraction Layer</b></p>
+          <p>
+            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process/Extract>
+              <b>Extraction Layer</b>
+            </a>
+          </p>
           <p>Web Scrapper that mines the  
             <a href = https://finance.yahoo.com/lookup>
             Yahoo Finance symbols list
@@ -249,11 +253,19 @@ print(
           </p>
         </li>
         <li>
-          <p><b>Transformation Layer</b></p>
+          <p>
+            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process/Transform>
+              <b>Transformation Layer</b>
+            </a>
+          </p>
           <p> Process that clean and normalize the information that comes from <b>Yahoo Finance</b> in order to fit into the database tables</p>
         </li>
         <li>
-          <p><b>Load Layer</b></p>
+          <p>
+            <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process/Load>
+              <b>Load Layer</b>
+            </a>          
+          </p>
           <p>In this step, the records are pushed into the 
             <a href = https://github.com/JuanPChicaC/DataBases/tree/main/SQL/Portfolio%20Optimization%20DataBase>
               Portfolio Optimization DataBase
