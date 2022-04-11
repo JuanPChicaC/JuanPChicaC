@@ -233,7 +233,7 @@ print(
 
   <li>
     <h4 font-weight = bold> 
-      <a href = https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model#portfolio-optimization-model-folder>
+      <a href = https://github.com/JuanPChicaC/DataBases/tree/main/ETL/Yahoo%20Finance%20ETL%20Process>
         Yahoo Finance ETL Process
       </a>
     </h4>
